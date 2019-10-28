@@ -44,6 +44,10 @@ contributions:
     source: "https://editor.p5js.org/Vanawy/sketches/JQkClspVZ"
   - title: "Collatz' birb in Processing"
     author: "SpectralPiano"
-    source: "https://github.com/SpectralFlame/collatz-birb"
+    source: "https://github.com/SpectralFlame/collatz-birb"    
+  - title: "Collatz Roots"
+    author: "trin-o"
+    url: "https://editor.p5js.org/trin-o/full/11vif3sXV"
+    source: "https://editor.p5js.org/trin-o/sketches/11vif3sXV"
 ---
 It's the second episode of Coding in the Cabana! Here I attempt to visualize the Collatz Conjecture in Processing.
